@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\Debug/robot.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>robot.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>robot.map</FILE>
+  <FILE>robot.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>87</LINE></INIT>
+  <HitLeft><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>272</LINE></HitLeft>
+  <HitRight><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>244</LINE></HitRight>
+  <ChkReceived><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>146</LINE></ChkReceived>
+  <MAIN><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>142</LINE></MAIN>
+  <ChkFreeze><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>157</LINE></ChkFreeze>
+  <ChkAction><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>198</LINE></ChkAction>
+  <ChkRobotID><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>189</LINE></ChkRobotID>
+  <FrozenAct><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>183</LINE></FrozenAct>
+  <Wait><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>309</LINE></Wait>
+  <SKIPFreeze><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>176</LINE></SKIPFreeze>
+  <SKIP><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>214</LINE></SKIP>
+  <SendFreeze><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>217</LINE></SendFreeze>
+  <Loop><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>314</LINE></Loop>
+  <OLoop><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>315</LINE></OLoop>
+  <ILoop><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\robot\robot\robot.asm</FILE><LINE>316</LINE></ILoop>
+ </LABELS>
+</ASSEMBLER_INFO>

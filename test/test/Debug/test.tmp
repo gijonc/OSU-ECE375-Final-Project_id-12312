@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>Z:\Windows.Documents\Desktop\ECE375\Lab_8\test\test\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\test\test\test.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\test\test\Debug/test.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>test.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>test.map</FILE>
+  <FILE>test.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\test\test\test.asm</FILE><LINE>55</LINE></INIT>
+  <Hit><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\test\test\test.asm</FILE><LINE>103</LINE></Hit>
+  <MAIN><FILE>Z:\Windows.Documents\Desktop\ECE375\Lab_8\test\test\test.asm</FILE><LINE>100</LINE></MAIN>
+ </LABELS>
+</ASSEMBLER_INFO>
